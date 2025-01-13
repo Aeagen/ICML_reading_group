@@ -11,8 +11,10 @@
   * DINOv2: Learning Robust Visual Features without Supervision
 * 2024/10/17(第六周)
   * Segment anything model for medical image segmentation: Current applications and future directions
-  * A Simple Recipe for Competitive Low-compute Self supervised Vision Models                                                                                 * 2024/10/31(第八周)                                                                                                                                            * A Simple Recipe for Competitive Low-compute Self supervised Vision Models
+  * A Simple Recipe for Competitive Low-compute Self supervised Vision Models
+* 2024/10/31(第八周)                                                                                                                                   
   * DIST：Knowledge Distillation from A Stronger Teacher
+  * A Simple Recipe for Competitive Low-compute Self supervised Vision Models
 * 2024/11/07(第九周)
   * A Task Decomposing and Cell Comparing Method for Cervical Lesion Cell Detection
 * 2024/11/14(第十周)
