@@ -48,3 +48,7 @@
   * Semi-supervised Pathological Image Segmentation via Cross Distillation of Multiple Attentions
   * Trexplorer: Recurrent DETR for Topologically Correct Tree Centerline Tracking
   * Slice-Consistent Lymph Nodes Detection Transformer in CT Scans via Cross-slice Query Contrastive Learning
+* 2025/1/17(集中读论文第四次)
+  * 基于混合神经网络和注意力机制的软件缺陷自动分派方法
+  * Deep Closing Enhancing Topological Connectivity in Medical Tubular Segmentation
+  * Encoder-Decoder Contrast for Unsupervised Anomaly Detection in Medical Images 
