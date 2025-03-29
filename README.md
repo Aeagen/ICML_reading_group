@@ -1,42 +1,42 @@
 # 论文列表
 | 日期 | 论文名称 | 期刊 | 年份 |
 | :----: | :------: | :----: | :----: |
-| 2025-1-16 | MedShapeNet – a large-scale dataset of 3D medical shapes for computer vision | Biomedical Engineering | 2025 |
-| 2025-1-19 | MLDA-Net: Multi-Level Deep Aggregation Network for 3D Nuclei Instance Segmentation | IEEE Journal of Biomedical and Health Informatics | 2025 |
-| 2025-1-25 | Stitching, Fine-tuning, Re-training: A SAM-enabled Framework for Semi-supervised 3D Medical Image Segmentation | IEEE Transactions on Medical Imaging | 2025 |
-| 2025-2-2 | Dual-Level Masked Semantic Inference for Semi-Supervised Semantic Segmentation | IEEE Transactions on Multimedia | 2025 |
-| 2025-2-2 | Mixture of Experts (MoE): A Big Data Perspective | arXiv | 2025 |
+| 2025-3-29 | Weakly supervised nuclei segmentation based on pseudo label correction and uncertainty denoising | Artificial Intelligence In Medicine | 2025 |
+| 2025-3-25 | Central loss guides coordinated Transformer for reliable anatomical landmark detection | Neural Networks | 2025 |
+| 2025-3-18 | nnInteractive: Redefining 3D Promptable Segmentation | arXiv | 2025 |
+| 2025-3-11 | MIAdapt: Source-free Few-shot Domain Adaptive Object Detection for Microscopic Images | arXiv | 2025 |
+| 2025-3-10 | WeakMedSAM: Weakly-Supervised Medical Image Segmentation via SAM with Sub-Class Exploration and Prompt Affinity Mining | IEEE Transactions on Medical Imaging | 2025 |
+| 2025-3-10 | Skeleton recall loss for connectivity conserving and resource efficient segmentation of thin tubular structures | European Conference on Computer Vision | 2024 |
+| 2025-3-10 | Centerline Boundary Dice Loss for Vascular Segmentation | International Conference On Medical Image Computing And Computer-assisted Intervention | 2024 |
+| 2025-3-10 | No Forgetting Learning: Memory-free Continual Learning | arXiv | 2025 |
+| 2025-3-8 | MFM-DA: Instance-Aware Adaptor and Hierarchical Alignment for Efficient Domain Adaptation in Medical Foundation Models | arXiv | 2025 |
+| 2025-3-7 | "No negatives needed": weakly-supervised regression for interpretable tumor detection in whole-slide histopathology images | arXiv | 2025 |
+| 2025-3-7 | A Fusion Model With Effective Multi-Scale Parallel Transformer for Cellular Segmentation | IEEE Transactions on Computational Biology and Bioinformatics | 2025 |
+| 2025-3-7 | LesionLocator: Zero-Shot Universal Tumor Segmentation and Tracking in 3D Whole-Body Imaging | arXiv | 2025 |
+| 2025-3-7 | MedHallTune: An Instruction-Tuning Benchmark for Mitigating Medical Hallucination in Vision-Language Models | arXiv | 2025 |
+| 2025-3-4 | You Only Click Once: Single Point Weakly Supervised 3D Instance Segmentation for Autonomous Driving | arXiv | 2025 |
+| 2025-3-3 | MitoSkel: AI tool for semantic segmentation and quantification of mitochondria from light microscopy images | Biomedical Signal Processing and Control | 2025 |
+| 2025-2-25 | Efficiency is the rule: Domain adaptive semantic segmentation with minimal annotations | Expert Systems with Applications | 2025 |
+| 2025-2-25 | Medical SAM 2: Segment medical images as video via Segment Anything Model 2 | arXiv | 2024 |
+| 2025-2-23 | FrGNet: A fourier-guided weakly-supervised framework for nuclear instance segmentation | arXiv | 2025 |
+| 2025-2-23 | Self-supervised identification and elimination of harmful datasets in distributed machine learning for medical image analysis | npj Digital Medicine | 2025 |
+| 2025-2-23 | ECS-Net: Extracellular space segmentation with contrastive and shape-aware loss by using cryo-electron microscopy imaging | Expert Systems with Applications | 2025 |
+| 2025-2-22 | HuatuoGPT-o1, Towards Medical Complex Reasoning with LLMs | arXiv | 2024 |
+| 2025-2-12 | Personalize segment anything model with one shot | arXiv | 2023 |
+| 2025-2-11 | Scribbles for All: Benchmarking Scribble Supervised Segmentation Across Datasets | arXiv | 2024 |
+| 2025-2-10 | Rethinking Copy-Paste for Consistency Learning in Medical Image Segmentation | IEEE Transactions on Image Processing | 2025 |
+| 2025-2-10 | The KNee OsteoArthritis Prediction (KNOAP2020) challenge | Osteoarthritis and cartilage | 2023 |
+| 2025-2-10 | Source data-absent unsupervised domain adaptation through hypothesis transfer and labeling transfer | IEEE Transactions on Pattern Analysis and Machine Intelligence | 2021 |
 | 2025-2-8 | SAM-DA: Decoder Adapter for Efficient Medical Domain Adaptation | arXiv | 2025 |
 | 2025-2-8 | Unleashing the Potential of SAM for Medical Adaptation via Hierarchical Decoding | CVPR | 2024 |
 | 2025-2-8 | Medical SAM Adapter: Adapting Segment Anything Model for Medical Image Segmentation. | MIA | 2025 |
 | 2025-2-8 | SPA: Efficient User-Preference Alignment against Uncertainty in Medical Image Segmentation | arXiv | 2024 |
 | 2025-2-8 | FedPIA--Permuting and Integrating Adapters leveraging Wasserstein Barycenters for Finetuning Foundation Models in Multi-Modal Federated Learning | arXiv | 2024 |
-| 2025-2-10 | Rethinking Copy-Paste for Consistency Learning in Medical Image Segmentation | IEEE Transactions on Image Processing | 2025 |
-| 2025-2-10 | The KNee OsteoArthritis Prediction (KNOAP2020) challenge | Osteoarthritis and cartilage | 2023 |
-| 2025-2-10 | Source data-absent unsupervised domain adaptation through hypothesis transfer and labeling transfer | IEEE Transactions on Pattern Analysis and Machine Intelligence | 2021 |
-| 2025-2-11 | Scribbles for All: Benchmarking Scribble Supervised Segmentation Across Datasets | arXiv | 2024 |
-| 2025-2-12 | Personalize segment anything model with one shot | arXiv | 2023 |
-| 2025-2-22 | HuatuoGPT-o1, Towards Medical Complex Reasoning with LLMs | arXiv | 2024 |
-| 2025-2-23 | FrGNet: A fourier-guided weakly-supervised framework for nuclear instance segmentation | arXiv | 2025 |
-| 2025-2-23 | Self-supervised identification and elimination of harmful datasets in distributed machine learning for medical image analysis | npj Digital Medicine | 2025 |
-| 2025-2-23 | ECS-Net: Extracellular space segmentation with contrastive and shape-aware loss by using cryo-electron microscopy imaging | Expert Systems with Applications | 2025 |
-| 2025-2-25 | Efficiency is the rule: Domain adaptive semantic segmentation with minimal annotations | Expert Systems with Applications | 2025 |
-| 2025-2-25 | Medical SAM 2: Segment medical images as video via Segment Anything Model 2 | arXiv | 2024 |
-| 2025-3-3 | MitoSkel: AI tool for semantic segmentation and quantification of mitochondria from light microscopy images | Biomedical Signal Processing and Control | 2025 |
-| 2025-3-4 | You Only Click Once: Single Point Weakly Supervised 3D Instance Segmentation for Autonomous Driving | arXiv | 2025 |
-| 2025-3-7 | "No negatives needed": weakly-supervised regression for interpretable tumor detection in whole-slide histopathology images | arXiv | 2025 |
-| 2025-3-7 | A Fusion Model With Effective Multi-Scale Parallel Transformer for Cellular Segmentation | IEEE Transactions on Computational Biology and Bioinformatics | 2025 |
-| 2025-3-7 | LesionLocator: Zero-Shot Universal Tumor Segmentation and Tracking in 3D Whole-Body Imaging | arXiv | 2025 |
-| 2025-3-7 | MedHallTune: An Instruction-Tuning Benchmark for Mitigating Medical Hallucination in Vision-Language Models | arXiv | 2025 |
-| 2025-3-8 | MFM-DA: Instance-Aware Adaptor and Hierarchical Alignment for Efficient Domain Adaptation in Medical Foundation Models | arXiv | 2025 |
-| 2025-3-10 | WeakMedSAM: Weakly-Supervised Medical Image Segmentation via SAM with Sub-Class Exploration and Prompt Affinity Mining | IEEE Transactions on Medical Imaging | 2025 |
-| 2025-3-10 | Skeleton recall loss for connectivity conserving and resource efficient segmentation of thin tubular structures | European Conference on Computer Vision | 2024 |
-| 2025-3-10 | Centerline Boundary Dice Loss for Vascular Segmentation | International Conference On Medical Image Computing And Computer-assisted Intervention | 2024 |
-| 2025-3-10 | No Forgetting Learning: Memory-free Continual Learning | arXiv | 2025 |
-| 2025-3-11 | MIAdapt: Source-free Few-shot Domain Adaptive Object Detection for Microscopic Images | arXiv | 2025 |
-| 2025-3-18 | nnInteractive: Redefining 3D Promptable Segmentation | arXiv | 2025 |
-| 2025-3-25 | Central loss guides coordinated Transformer for reliable anatomical landmark detection | Neural Networks | 2025 |
-| 2025-3-29 | Weakly supervised nuclei segmentation based on pseudo label correction and uncertainty denoising | Artificial Intelligence In Medicine | 2025 |
+| 2025-2-2 | Dual-Level Masked Semantic Inference for Semi-Supervised Semantic Segmentation | IEEE Transactions on Multimedia | 2025 |
+| 2025-2-2 | Mixture of Experts (MoE): A Big Data Perspective | arXiv | 2025 |
+| 2025-1-25 | Stitching, Fine-tuning, Re-training: A SAM-enabled Framework for Semi-supervised 3D Medical Image Segmentation | IEEE Transactions on Medical Imaging | 2025 |
+| 2025-1-19 | MLDA-Net: Multi-Level Deep Aggregation Network for 3D Nuclei Instance Segmentation | IEEE Journal of Biomedical and Health Informatics | 2025 |
+| 2025-1-16 | MedShapeNet – a large-scale dataset of 3D medical shapes for computer vision | Biomedical Engineering | 2025 |
 
 # ICML_reading_group
 | 日期 | 周次 | 论文名称 |
