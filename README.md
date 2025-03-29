@@ -37,6 +37,52 @@
 | 2025-1-25 | Stitching, Fine-tuning, Re-training: A SAM-enabled Framework for Semi-supervised 3D Medical Image Segmentation | IEEE Transactions on Medical Imaging | 2025 |
 | 2025-1-19 | MLDA-Net: Multi-Level Deep Aggregation Network for 3D Nuclei Instance Segmentation | IEEE Journal of Biomedical and Health Informatics | 2025 |
 | 2025-1-16 | MedShapeNet – a large-scale dataset of 3D medical shapes for computer vision | Biomedical Engineering | 2025 |
+| 日期 | 论文名称 | 期刊 | 年份 |
+| :----: | :------: | :----: | :----: |
+| 2025-1-9 | PICK: Predict and Mask for Semi-supervised Medical Image Segmentation | International Journal of Computer Vision | 2025 |
+| 2025-1-9 | EAUWSeg: Eliminating annotation uncertainty in weakly-supervised medical image segmentation | arXiv:2501.01658 | 2025 |
+| 2025-1-7 | Label-efficient transformer-based framework with self-supervised strategies for heterogeneous lung tumor segmentation | Expert Systems with Applications | 2025 |
+| 2025-1-6 | A General Framework for Learning from Weak Supervision | arXiv:2402.01922 | 2024 |
+| 2025-1-5 | Semantic feature learning for software defect prediction from source code and external knowledge | Journal of Systems and Software | 2023 |
+| 2024-12-30 | Multi-Modality Attention Network for Coronary Artery Disease Evaluation from Routine Myocardial Perfusion Imaging and Clinical Data | IEEE JBHI | 2024 |
+| 2024-12-30 | Rethinking nnU-Net for Cross-Modality Unsupervised Domain Adaptation in Abdominal Organ Segmentation | MICCAI 2024 FLARE Challenge | 2024 |
+| 2024-12-30 | Multi-perspective Pseudo-label Generation and Confidence-weighted Training for Semi-supervised Semantic Segmentation | IEE TMM | 2024 |
+| 2024-12-27 | AFANet: Adaptive Frequency-Aware Network for Weakly-Supervised Few-Shot Semantic Segmentation | arXiv:2412.17601 | 2024 |
+| 2024-12-27 | Trans-SAM: Transfer Segment Anything Model to medical image segmentation with Parameter-Efficient Fine-Tuning | Knowledge-Based Systems | 2025 |
+| 2024-12-25 | Computing the proximal operator of the ℓ1, q-norm for group sparsity | arXiv:2409.14156 | 2024 |
+| 2024-12-24 | Weakly Supervised Instance Segmentation in Aerial Images via Comprehensive Spatial Adaptation | MIA | 2024 |
+| 2024-12-15 | Improving cross-domain generalizability of medical image segmentation using uncertainty and shape-aware continual test-time domain adaptation | MIA | 2024 |
+| 2024-12-14 | Multi-Task Attention Network for Automatic Medical Image Segmentation and Classification | IEEE TMI | 2024 |
+| 2024-11-30 | Active Prompt Learning with Vision-Language Model Priors | arXiv:2411.16722 | 2024 |
+| 2024-11-26 | CONTRAST: Continual Multi-source Adaptation to Dynamic Distributions | arXiv:2401.02561 | 2024 |
+| 2024-11-24 | SM Ahmed, FF Niloy, X Chang, DS Raychaudhuri… - The Thirty-eighth Annual | arxiv preprint arxiv:2411.12814 | 2024 |
+| 2024-11-23 | SegAnyPath: A Foundation Model for Multi-resolution Stain-variant and Multi-task Pathology Image Segmentation | IEEE Transactions on Medical Imaging | 2024 |
+| 2024-11-23 | Efficient Vision Transformers with Partial Attention | ECCV | 2024 |
+| 2024-11-20 | A foundation model for joint segmentation,detection and recognition of biomedical obiects across nine modalities | Nature Methods | 2024 |
+| 2024-11-16 | Curriculum Learning for Few-Shot Domain Adaptation in CT-based Airway Tree Segmentation | arXiv preprint arXiv:2411.05779 | 2024 |
+| 2024-11-13 | ContraSurv: Enhancing Prognostic Assessment of Medical Images via Data-Efficient Weakly Supervised Contrastive Learning | IEEE Journal of Biomedical and Health Informatics | 2024 |
+| 2024-10-27 | MedUniSeg: 2D and 3D Medical Image Segmentation via a Prompt-driven Universal Model | arXiv:2410.05905 | 2024 |
+| 2024-10-26 | Learning With Style: Continual Semantic Segmentation Across Tasks and Domains | TPAMI | 2022 |
+| 2024-10-21 | Learning From Noisy Labels By Regularized Estimation Of Annotator Confusion | CVPR | 2019 |
+| 2024-10-10 | BPaCo: Balanced Parametric Contrastive Learning for Long-Tailed Medical Image Classification | MICAI | 2024 |
+| 2024-10-10 | IPLC: Iterative Pseudo Label Correction Guided by SAM for Source-Free Domain Adaptation in Medical Image Segmentation | MICAI | 2024 |
+| 2024-10-10 | BioSAM: Generating SAM Prompts From Superpixel Graph for Biological Instance Segmentation | IEEE Journal of Biomedical and Health Informatics | 2024 |
+| 2024-10-10 | GobletNet: Wavelet-Based High-Frequency Fusion Network for Semantic Segmentation of Electron Microscopy Images | IEEE Transactions on Medical Imaging | 2024 |
+| 2024-10-9 | DQ-DETR: DETR with Dynamic Query for Tiny Object Detection | ECCV | 2024 |
+| 2024-10-6 | SAC-Net: Learning with weak and noisy labels in histopathology image segmentation | Medical Image Analysis | 2023 |
+| 2024-10-6 | Hard Negative Sample Mining for Whole Slide Image Classification | MICCAI | 2024 |
+| 2024-10-5 | Boundary-aware Prototype in Semi-supervised Medical Image Segmentation | IEEE Transactions on Image Processing | 2024 |
+| 2024-10-3 | A Simple Recipe for Competitive Low-compute Self supervised Vision Models | arXiv:2301.09451 | 2023 |
+| 2024-10-3 | "DINOv2: Learning Robust Visual Features without Supervision" | arXiv:2304.07193 | 2023 |
+| 2024-10-3 | Emerging Properties in Self-Supervised Vision Transformers | ICCV | 2021 |
+| 2024-9-30 | Continual learning in medical image analysis: A survey | Computers in Biology and Medicine | 2024 |
+| 2024-9-30 | Multi-instance imbalance semantic segmentation by instance-dependent attention and adaptive hard instance mining | Knowledge-Based Systems | 2024 |
+| 2024-9-29 | Adapting Segment Anything Model for Unseen Object Instance Segmentation | ICRA | 2025 |
+| 2024-9-27 | Point-Based Weakly Supervised 2.5 D Cell Segmentation | ICANN | 2024 |
+| 2024-9-24 | L2A: Learning Affinity from Attention for Weakly Supervised Continual Semantic Segmentation | IEEE Transactions on Circuits and Systems for Video Technology | 2024 |
+| 2024-9-22 | MitoSeg: Mitochondria Segmentation Tool | arXiv:2409.11974 | 2024 |
+| 2024-9-6 | Software bug prediction using graph neural networks and graph-based text representations | Expert Systems with Applications | 2024 |
+| 2024-9-5 | Repurposing the Public BraTS Dataset for Postoperative Brain Tumour Treatment Response Monitoring | Tomography, 2024 | 2024 |
 
 # ICML_reading_group
 | 日期 | 周次 | 论文名称 |
