@@ -90,6 +90,12 @@
 | 2024-9-5 | Repurposing the Public BraTS Dataset for Postoperative Brain Tumour Treatment Response Monitoring | Tomography, 2024 | 2024 |
 
 # 推荐论文
+## 陈柏佳
+| 论文名称 | 期刊 | 年份 |
+| :------: | :----: | :----: |
+| POLAFORMER: POLARITY-AWARE LINEAR ATTENTION FOR VISION TRANSFORMERS | ICLR | 2025 |
+| DQ-DETR: DETR with Dynamic Query for Tiny Object Detection | ECCV | 2024 |
+| Rank-DETR for High Quality Object Detection | NIPS | 2023 |
 
 # ICML_reading_group
 | 日期 | 周次 | 论文名称 |
