@@ -1,3 +1,8 @@
+## 目录
+- [论文列表](#论文列表)
+- [ICML读书小组](#icml_reading_group)
+- [推荐论文](#推荐论文)
+
 # 论文列表
 | 日期 | 论文名称 | 期刊 | 年份 |
 | :----: | :------: | :----: | :----: |
@@ -83,6 +88,8 @@
 | 2024-9-22 | MitoSeg: Mitochondria Segmentation Tool | arXiv:2409.11974 | 2024 |
 | 2024-9-6 | Software bug prediction using graph neural networks and graph-based text representations | Expert Systems with Applications | 2024 |
 | 2024-9-5 | Repurposing the Public BraTS Dataset for Postoperative Brain Tumour Treatment Response Monitoring | Tomography, 2024 | 2024 |
+
+# 推荐论文
 
 # ICML_reading_group
 | 日期 | 周次 | 论文名称 |
