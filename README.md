@@ -96,6 +96,7 @@
 | POLAFORMER: POLARITY-AWARE LINEAR ATTENTION FOR VISION TRANSFORMERS | ICLR | 2025 |
 | DQ-DETR: DETR with Dynamic Query for Tiny Object Detection | ECCV | 2024 |
 | Rank-DETR for High Quality Object Detection | NIPS | 2023 |
+| TaskCLIP: Extend Large Vision-Language Model for Task Oriented Object Detection | arXiv | 2024 |
 
 # ICML_reading_group
 | 日期 | 周次 | 论文名称 |
