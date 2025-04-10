@@ -98,6 +98,8 @@
 | DQ-DETR: DETR with Dynamic Query for Tiny Object Detection | ECCV | 2024 |
 | Rank-DETR for High Quality Object Detection | NIPS | 2023 |
 | TaskCLIP: Extend Large Vision-Language Model for Task Oriented Object Detection | arXiv | 2024 |
+| Frozen-DETR: Enhancing DETR with Image Understanding from Frozen Foundation Models | NeurlPS | 2024 |
+| CORA: Adapting CLIP for Open-Vocabulary Detection with Region Prompting and Anchor Pre-Matching | CVPR | 2023 |
 
 # ICML_reading_group
 | 日期 | 周次 | 论文名称 |
