@@ -7,6 +7,70 @@
 # 论文列表
 | 日期 | 论文名称 | 期刊 | 年份 |
 | :----: | :------: | :----: | :----: |
+| 2025-06-30 | An overview of diffusion models for generative artificial intelligence |  arXiv:2412 | 2024 |
+| 2025-06-29 | Multiple instance learning framework with masked hard instance mining for whole slide image classification | ICCV | 2023 |
+| 2025-06-29 | Quilt-1m: One million image-text pairs for histopathology | nan | 2023 |
+| 2025-06-29 | Scaling vision transformers to gigapixel images via hierarchical self-supervised learning | CVPR | 2022 |
+| 2025-06-29 | MedConceptsQA: Open source medical concepts QA benchmark | Computers in Biology and Medicine | 2024 |
+| 2025-06-28 | Continual Learning of Large Language Models: A Comprehensive Survey | ACM Computing Surveys | 2024 |
+| 2025-06-28 | TIME-TO-EVENT PRETRAINING FOR 3D MEDICAL IMAGING | arXiv:2411 | 2024 |
+| 2025-06-28 | FEDMEKI: A Benchmark for Scaling Medical Foundation Models via Federated Knowledge Injection | arXiv:2408 | 2024 |
+| 2025-06-28 | CleanPatrick: A Benchmark for Image Data Cleaning | arXiv:2505 | 2025 |
+| 2025-06-28 | Towards Open Respiratory Acoustic Foundation Models: Pretraining and Benchmarking | Advances in Neural Information Processing Systems | 2024 |
+| 2025-06-27 | Foundations of a knee joint digital twin from qMRI biomarkers for osteoarthritis and knee replacement | NPJ Digital Medicine | 2025 |
+| 2025-06-21 | 3D Vessel Graph Generation Using Denoising Difusion | International conference on medical image computing and computer-assisted  | 2024 |
+| 2025-06-18 | Intermediate Prototype Mining Transformer for Few-Shot Semantic Segmentation | Advances in neural information processing systems | 2022 |
+| 2025-06-15 | Semantics and instance interactive learning for labeling and segmentation of vertebrae in CT images | MIA | 2025 |
+| 2025-06-15 | ENSAM: an efficient foundation model for interactive segmentation of 3D medical images | CVPR | 2025 |
+| 2025-06-15 | Seeing text in the dark: Algorithm and benchmark | ACM MM | 2024 |
+| 2025-06-12 | SwinMM: Masked Multi-view with Swin Transformers for 3D Medical Image Segmentation | International conference on medical image computing and computer-assisted  | 2023 |
+| 2025-06-12 | RFNet: Region-aware Fusion Network for Incomplete Multi-modal Brain Tumor Segmentation | ICCV | 20211 |
+| 2025-06-12 | WORD: A large scale dataset, benchmark and clinical applicable study for abdominal organ segmentation from CT image | MIA | 2022 |
+| 2025-06-12 | Xnet: Wavelet-based low and high frequency fusion networks for fully-and semi-supervised semantic segmentation of biomedical images | CVPR | 2023 |
+| 2025-06-10 | Lightweight Deep Learning for Resource-Constrained Environments: A Survey | ACM Computing Surveys | 2024 |
+| 2025-06-10 | WISH: Weakly Supervised Instance Segmentation using Heterogeneous Labels | CVPR | 2025 |
+| 2025-06-10 | SuperLightNet: Lightweight Parameter Aggregation Network for Multimodal Brain Tumor Segmentation | CVPR | 2025 |
+| 2025-06-07 | SAMJ: Fast Image Annotation on ImageJ/Fiji via Segment Anything Model | arXiv:2506 | 2025 |
+| 2025-06-07 | nnFormer: volumetric medical image segmentation via a 3D transformer | IEEE transactions on image processing | 2023 |
+| 2025-06-07 | Dynamic Snake Convolution based on Topological Geometric Constraints for Tubular Structure Segmentation | ICCV | 2023 |
+| 2025-06-06 | Beyond the LUMIR challenge: The pathway to foundational registration models |  arXiv:2505 | 2025 |
+| 2025-06-01 | Towards Open Vocabulary Learning: A Survey | TPAMI | 2024 |
+| 2025-06-01 | Landmark-Free Preoperative-to-Intraoperative Registration in Laparoscopic Liver Resection | TMI | 2025 |
+| 2025-05-31 | SimpleClick: Interactive Image Segmentation with Simple Vision Transformers | ICCV | 2023 |
+| 2025-05-30 | Interactive Medical Image Segmentation: A Benchmark Dataset and Baseline | CVPR | 2025 |
+| 2025-05-30 | LMOD: A Large Multimodal Ophthalmology Dataset and Benchmark for Large Vision-Language Models | arXiv:2410 | 2024 |
+| 2025-05-30 | Derm1M: A Million-scale Vision-Language Dataset Aligned with Clinical Ontology Knowledge for Dermatology | arXiv:2503 | 2025 |
+| 2025-05-30 | The Large Language Models on Biomedical Data Analysis: A Survey | IEEE Journal of Biomedical and Health Informatics | 2025 |
+| 2025-05-30 | Vila-m3: Enhancing vision-language models with medical expert knowledge | CVPR | 2025 |
+| 2025-05-29 | Text-promptable Propagation for Referring Medical Image Sequence Segmentation | arXiv:2502 | 2025 |
+| 2025-05-29 | MedTrinity-25M: A Large-scale Multimodal Dataset with Multigranular Annotations for Medicine | arXiv:2408 | 2024 |
+| 2025-05-29 | A foundation model for joint segmentation, detection and recognition of biomedical objects across nine modalities | Nature methods | 2025 |
+| 2025-05-29 | Scribbleprompt: fast and flexible interactive segmentation for any biomedical image | ECCV | 2024 |
+| 2025-05-25 |  UWSAM: Segment Anything Model Guided Underwater Instance Segmentation and A Large-scale Benchmark Dataset | arXiv:2505 | 2025 |
+| 2025-05-23 | Pseudo-Label Quality Decoupling and Correction for Semi-Supervised Instance Segmentation | arXiv:2505 | 2025 |
+| 2025-05-18 | Retrieval-Augmented Generation for Large Language Models: A Survey | arXiv:2312 | 2023 |
+| 2025-05-18 | AlignRAG: An Adaptable Framework for Resolving Misalignments in Retrieval-Aware Reasoning of RAG | arXiv:2504 | 2025 |
+| 2025-05-18 | Retrieval-Augmented Multiple Instance Learning | Advances in Neural Information Processing Systems | 2023 |
+| 2025-05-18 | Leveraging Segment Anything Model for Source-Free Domain Adaptation via Dual Feature Guided Auto-Prompting | arXiv:2505 | 2025 |
+| 2025-05-16 | Feedback-Driven Pseudo-Label Reliability Assessment: Redefining Thresholding for Semi-Supervised Semantic Segmentation | arXiv:2505 | 2025 |
+| 2025-05-05 | Electron microscopy images as set of fragments for mitochondrial segmentation |  AAAI | 2024 |
+| 2025-05-05 | Adaptive template transformer for mitochondria segmentation in electron microscopy images | ICCV | 2023 |
+| 2025-05-04 | SAM4EM: Efficient memory-based two stage prompt-free segment anything model adapter for complex 3D neuroscience electron microscopy stacks | CVPR | 2025 |
+| 2025-04-21 | Improving cell instance segmentation in scanning electron microscopy via semantic image synthesis | ISBI | 2025 |
+| 2025-04-21 | DisTorch: A fast GPU implementation of 3D Hausdorff Distance | MIDL | 2025 |
+| 2025-04-21 | Convolutional Neural Network Approach to Classify Mitochondrial Morphologies | Computational Biology and Chemistry | 2025 |
+| 2025-04-14 | P2Object: Single Point Supervised Object Detection and Instance Segmentation | IJCV | 2025 |
+| 2025-04-13 | Real-IAD D³: A Real-World 2D/Pseudo-3D/3D Dataset for Industrial Anomaly Detection | CVPR | 2025 |
+| 2025-04-13 | ROD-MLLM: Towards More Reliable Object Detection in Multimodal Large Language Models | CVPR | 2025 |
+| 2025-04-13 | POPEN: Preference-Based Optimization and Ensemble for LVLM-Based Reasoning Segmentation | CVPR | 2025 |
+| 2025-04-13 | Continual Semantic Segmentation with Automatic Memory Sample Selection | CVPR | 2023 |
+| 2025-04-12 | Your ViT is Secretly an Image Segmentation Model | CVPR | 2025 |
+| 2025-04-09 | Addressing Background Context Bias in Few-Shot Segmentation through Iterative Modulation | CVPR | 2024 |
+| 2025-04-09 | iscrete Latent Perspective Learning for Segmentation and Detection | arXiv:2406 | 2024 |
+| 2025-04-06 | CellVTA: Enhancing Vision Foundation Models for Accurate Cell Segmentation and Classification | arXiv：2504 | 2025 |
+| 2025-04-01 | Enhancing SAM with Efficient Prompting and Preference Optimization for Semi-supervised Medical Image Segmentation | CVPR | 2025 |
+| 2025-04-01 | Direct Preference Optimization: Your Language Model is Secretly a Reward Mode | Advances in Neural Information Processing Systems | 2023 |
+| 2025-04-01 | MA-SAM: Adversarial Multi-Domain Alignment of Segment Anything Model for High-Fidelity Histology Nuclei Segmentation | arXiv:2503 | 2025 |
 | 2025-3-29 | Weakly supervised nuclei segmentation based on pseudo label correction and uncertainty denoising | Artificial Intelligence In Medicine | 2025 |
 | 2025-3-25 | Central loss guides coordinated Transformer for reliable anatomical landmark detection | Neural Networks | 2025 |
 | 2025-3-18 | nnInteractive: Redefining 3D Promptable Segmentation | arXiv | 2025 |
