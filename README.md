@@ -1,8 +1,6 @@
 ## 目录
 - [论文列表](#论文列表)
 - [ICML读书小组](#icml_reading_group)
-- [推荐论文](#推荐论文)
-- [陈柏佳](#陈柏佳)
 
 # 论文列表
 | 日期 | 论文名称 | 期刊 | 年份 |
@@ -154,16 +152,6 @@
 | 2024-9-6 | Software bug prediction using graph neural networks and graph-based text representations | Expert Systems with Applications | 2024 |
 | 2024-9-5 | Repurposing the Public BraTS Dataset for Postoperative Brain Tumour Treatment Response Monitoring | Tomography, 2024 | 2024 |
 
-# 推荐论文
-## 陈柏佳
-| 论文名称 | 期刊 | 年份 |
-| :------: | :----: | :----: |
-| POLAFORMER: POLARITY-AWARE LINEAR ATTENTION FOR VISION TRANSFORMERS | ICLR | 2025 |
-| DQ-DETR: DETR with Dynamic Query for Tiny Object Detection | ECCV | 2024 |
-| Rank-DETR for High Quality Object Detection | NIPS | 2023 |
-| TaskCLIP: Extend Large Vision-Language Model for Task Oriented Object Detection | arXiv | 2024 |
-| Frozen-DETR: Enhancing DETR with Image Understanding from Frozen Foundation Models | NeurlPS | 2024 |
-| CORA: Adapting CLIP for Open-Vocabulary Detection with Region Prompting and Anchor Pre-Matching | CVPR | 2023 |
 
 # ICML_reading_group
 | 日期 | 周次 | 论文名称 |
